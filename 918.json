@@ -68,7 +68,6 @@
 {"key":"森林","name":"🔞采集.森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"森林","name":"🔞采集.森林资源","type":1,"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"色猫","name":"🔞色猫采集","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php/","searchable":1,"filterable":1},
-{"key":"番外","name":"🔞番外采集","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":1,"filterable":1},
   
 {"key":"🔞国产","name":"🔞顶级国产","type":1,"api":"https://aoo.qoqoavideo2.sbs/vodtype/{cateId}/page/{catePg}.html","searchable":1,"filterable":1},
   
@@ -107,7 +106,6 @@
 {"key":"*麻豆视频2","name":"*麻豆视频2","type":1,"api":"https://madouse.la/api.php/provide/vod/","searchable":1,"quickSearch":0},
 {"key":"*蛋蛋视频","name":"*蛋蛋视频(直连)","type":1,"api":"https://156.249.29.8/inc/apijson_vod.php","searchable":1,"quickSearch":0},
 {"key":"*易看资源","name":"🔞易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"*番号资源","name":"🔞番号资源","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0},
 
 {"key":"xjjzyapi.com","name":"美少女","type":1,"api":"https://xjjzyapi.com/cjapi/sda/vod/?ac=list","searchable":1,"filterable":1},
 {"key":"semaozy.com","name":"色猫(FQ)","type":1,"api":"https://caiji.semaozy.net/inc/apijson_vod.php","searchable":1,"filterable":1},
